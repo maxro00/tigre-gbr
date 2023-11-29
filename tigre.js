@@ -1,3 +1,4 @@
+app.listen(process.env.PORT || 3000)
 const TelegramBot = require('node-telegram-bot-api');
 
 // Substitua 'SEU_TOKEN' pelo token real do seu bot

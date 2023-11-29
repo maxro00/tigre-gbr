@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "node-telegram-bot-api": "^0.64.0"
-  }
+  },
+  "name": "tigre-gbr",
+  "version": "1.0.0",
+  "main": "tigre.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
